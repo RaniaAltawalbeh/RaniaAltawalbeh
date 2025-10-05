@@ -24,17 +24,3 @@ I use this space to share my projects, practice coding, and track my progress.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-
----
-
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaniaAltawalbeh&show_icons=true&theme=tokyonight&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaniaAltawalbeh&layout=compact&theme=tokyonight&hide_border=false)<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=RaniaAltawalbeh&theme=tokyonight&hide_border=false)<br/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=RaniaAltawalbeh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
